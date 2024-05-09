@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3C0DEFEE-111F-4649-8BFA-6A7A06ECD671"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C922A02E-6D64-43DB-8B3F-DA1FFB9380BC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/ViewModels/AuthViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "signIn()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9674CCC6-3734-49D6-878F-D8177147749A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/ViewModels/WeatherViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "getCoordinates(forAddressString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7804FDD-8512-40DF-AA6D-93A4A9719B3E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/ViewModels/WeatherViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "getCoordinates(forAddressString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E92E2D5D-E309-426A-8945-E7EC8E925D23"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/Views/WeatherSummary/WeatherSummaryViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "fetchWeatherSummary(forLocation:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B8A9D32A-01F4-4542-8DD6-70F822D210BB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/Views/WeatherSummary/WeatherSummaryViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "fetchWeatherSummary(forLocation:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B8A9D32A-01F4-4542-8DD6-70F822D210BB - 1755bd773706ee46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;OutTheBackWeather_OTBW_.WeatherError&gt;) -&gt; () in OutTheBackWeather_OTBW_.WeatherSummaryViewModel.fetchWeatherSummary(forLocation: Swift.String) -&gt; ()"
+                  moduleName = "OutTheBackWeather(OTBW)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/development/Documents/HAROON/OutTheBackWeather(OTBW)/OutTheBackWeather(OTBW)/Views/WeatherSummary/WeatherSummaryViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  uuid = "B8A9D32A-01F4-4542-8DD6-70F822D210BB - 1755bd773706ee46"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Combine.Subscribers.Completion&lt;OutTheBackWeather_OTBW_.WeatherError&gt;) -&gt; () in OutTheBackWeather_OTBW_.WeatherSummaryViewModel.fetchWeatherSummary(forLocation: Swift.String) -&gt; ()"
+                  moduleName = "OutTheBackWeather(OTBW)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/development/Documents/HAROON/OutTheBackWeather(OTBW)/OutTheBackWeather(OTBW)/Views/WeatherSummary/WeatherSummaryViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "258">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2430D43D-F409-42C6-8361-2483279F305B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/Views/WeatherSummary/WeatherSummaryViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "fetchWeatherSummary(forLocation:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F27557AC-9BD7-411D-9DA6-F81160B05DFD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/Views/WeatherSummary/WeatherSummaryViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "66"
+            endingLineNumber = "66"
+            landmarkName = "fetchWeatherSummary(forLocation:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "039ED01A-B726-4774-8732-2961B225FE2B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/Data Manager/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "getCoordinates(forAddressString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3CDC3D0A-0793-456B-A199-B52F27709201"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/Mocks/MockWeatherFetcher.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "weatherSummary(forCity:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08D888F8-F869-4E65-8091-115D73C21068"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/ViewModels/WarmViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5F26BE5-DB64-4947-893A-654A445703C3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/Views/MapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB28137D-FFB5-4F90-9CCF-D40DBA22C041"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/Views/MapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00F312F4-B066-410B-A6A8-BC34790AD5B2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/Views/MapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F576B07E-FC1F-4E14-B697-19F67148FD15"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/ViewModels/MapViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "fetchCurrentLocation(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0199FE0D-19F9-40A5-A0C2-A80679258C34"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/ViewModels/MapViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "fetchCurrentLocation(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C71C651-7E4F-4896-88E0-F0E5A359226A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/Views/MapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "9"
+            endingLineNumber = "9"
+            landmarkName = "unknown"
+            landmarkType = "0">
+            <Locations>
+               <Location
+                  uuid = "4C71C651-7E4F-4896-88E0-F0E5A359226A - d044a91b2f45e53a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of OutTheBackWeather_OTBW_.MapView.region : __C.MKCoordinateRegion"
+                  moduleName = "OutTheBackWeather(OTBW)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/development/Documents/HAROON/OutTheBackWeather(OTBW)/OutTheBackWeather(OTBW)/Views/MapView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "4C71C651-7E4F-4896-88E0-F0E5A359226A - 1c71f0e500605f10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutTheBackWeather_OTBW_.MapView.init(tappedLatitude: SwiftUI.Binding&lt;Swift.Double&gt;, tappedLongitude: SwiftUI.Binding&lt;Swift.Double&gt;, viewModel: OutTheBackWeather_OTBW_.MapViewModel) -&gt; OutTheBackWeather_OTBW_.MapView"
+                  moduleName = "OutTheBackWeather(OTBW)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/development/Documents/HAROON/OutTheBackWeather(OTBW)/OutTheBackWeather(OTBW)/Views/MapView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "9"
+                  endingLineNumber = "9"
+                  offsetFromSymbolStart = "243">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD964751-BD02-4ACC-8F30-31CD9C875314"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/ViewModels/MapViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "fetchCurrentLocation(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "012A79B7-1B69-43D0-99EC-B7EB5D03DBCD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/Data Manager/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "weatherSummary(forCity:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "10A35460-7FFE-4B09-80E2-FBDFE609855B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/Data Manager/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "getCoordinates(forAddressString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EB0D63AB-F0F7-45C7-8813-2C2E425428A0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/Data Manager/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "getCoordinates(forAddressString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ABFCB725-4847-4E1E-8907-79DA5F96525D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/Data Manager/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "getCoordinates(forAddressString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E1D2D3C-866E-4EC6-987B-D50CE30DC2C0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/Data Manager/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "getCoordinates(forAddressString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CDC7D5A4-84FF-4BB8-B49A-4D90A238EBEA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/Data Manager/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "getCoordinates(forAddressString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9F188004-6651-4E37-95A4-47816572B15A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/Data Manager/DataManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "DataManager"
+            landmarkType = "21">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6AF940A7-420E-49C6-A2C2-DE92A8FA5CBE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/Views/MapView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "6AF940A7-420E-49C6-A2C2-DE92A8FA5CBE - ac18db8f8f965363"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0 in OutTheBackWeather_OTBW_.MapView.body.getter : some"
+                  moduleName = "OutTheBackWeather(OTBW)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/development/Documents/HAROON/OutTheBackWeather(OTBW)/OutTheBackWeather(OTBW)/Views/MapView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "453">
+               </Location>
+               <Location
+                  uuid = "6AF940A7-420E-49C6-A2C2-DE92A8FA5CBE - 5ba11f1c8e02880e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (OutTheBackWeather_OTBW_.MapView.LocationAnnotation) -&gt; _MapKit_SwiftUI.MapPin in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.onChange&lt;&#x3c4;_0_0 where &#x3c4;_1_0: Swift.Equatable&gt;(of: &#x3c4;_1_0, perform: (&#x3c4;_1_0) -&gt; ()) -&gt; some&gt;&gt;.0 in OutTheBackWeather_OTBW_.MapView.body.getter : some"
+                  moduleName = "OutTheBackWeather(OTBW)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/development/Documents/HAROON/OutTheBackWeather(OTBW)/OutTheBackWeather(OTBW)/Views/MapView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6FBDBA61-3F82-4285-B13D-3B7E13955836"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutTheBackWeather(OTBW)/Views/WeatherSummary/WeatherSummaryViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "WeatherSummaryViewModel"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6FBDBA61-3F82-4285-B13D-3B7E13955836 - 66f8a3ab6f0d9345"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of OutTheBackWeather_OTBW_.WeatherSummaryViewModel.searchText : Swift.String"
+                  moduleName = "OutTheBackWeather(OTBW)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/development/Documents/HAROON/OutTheBackWeather(OTBW)/OutTheBackWeather(OTBW)/Views/WeatherSummary/WeatherSummaryViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "41">
+               </Location>
+               <Location
+                  uuid = "6FBDBA61-3F82-4285-B13D-3B7E13955836 - a08856d7472c781d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutTheBackWeather_OTBW_.WeatherSummaryViewModel.searchText.getter : Swift.String"
+                  moduleName = "OutTheBackWeather(OTBW)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/development/Documents/HAROON/OutTheBackWeather(OTBW)/OutTheBackWeather(OTBW)/Views/WeatherSummary/WeatherSummaryViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "6FBDBA61-3F82-4285-B13D-3B7E13955836 - 4236f2d4ee516e11"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutTheBackWeather_OTBW_.WeatherSummaryViewModel.searchText.setter : Swift.String"
+                  moduleName = "OutTheBackWeather(OTBW)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/development/Documents/HAROON/OutTheBackWeather(OTBW)/OutTheBackWeather(OTBW)/Views/WeatherSummary/WeatherSummaryViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "6FBDBA61-3F82-4285-B13D-3B7E13955836 - 76717ed5093e0a00"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutTheBackWeather_OTBW_.WeatherSummaryViewModel.searchText.modify : Swift.String"
+                  moduleName = "OutTheBackWeather(OTBW)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/development/Documents/HAROON/OutTheBackWeather(OTBW)/OutTheBackWeather(OTBW)/Views/WeatherSummary/WeatherSummaryViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "6FBDBA61-3F82-4285-B13D-3B7E13955836 - 888c0d88dd864314"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutTheBackWeather_OTBW_.WeatherSummaryViewModel.searchText.modify : Swift.String with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "OutTheBackWeather(OTBW)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/development/Documents/HAROON/OutTheBackWeather(OTBW)/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  uuid = "6FBDBA61-3F82-4285-B13D-3B7E13955836 - 159b9ce0afd5bb4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutTheBackWeather_OTBW_.WeatherSummaryViewModel.$searchText.getter : Combine.Published&lt;Swift.String&gt;.Publisher"
+                  moduleName = "OutTheBackWeather(OTBW)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/development/Documents/HAROON/OutTheBackWeather(OTBW)/OutTheBackWeather(OTBW)/Views/WeatherSummary/WeatherSummaryViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "6FBDBA61-3F82-4285-B13D-3B7E13955836 - f2050374d79143b0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutTheBackWeather_OTBW_.WeatherSummaryViewModel.$searchText.setter : Combine.Published&lt;Swift.String&gt;.Publisher"
+                  moduleName = "OutTheBackWeather(OTBW)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/development/Documents/HAROON/OutTheBackWeather(OTBW)/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "30">
+               </Location>
+               <Location
+                  uuid = "6FBDBA61-3F82-4285-B13D-3B7E13955836 - e71e92549fc365bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutTheBackWeather_OTBW_.WeatherSummaryViewModel.$searchText.modify : Combine.Published&lt;Swift.String&gt;.Publisher"
+                  moduleName = "OutTheBackWeather(OTBW)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/development/Documents/HAROON/OutTheBackWeather(OTBW)/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "6FBDBA61-3F82-4285-B13D-3B7E13955836 - 5b2a95036045cee9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutTheBackWeather_OTBW_.WeatherSummaryViewModel.$searchText.modify : Combine.Published&lt;Swift.String&gt;.Publisher with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "OutTheBackWeather(OTBW)"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/development/Documents/HAROON/OutTheBackWeather(OTBW)/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
